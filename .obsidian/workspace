@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2a4d92ad9afd3c9c",
+        "id": "27ff3981074fb664",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "falling up/albums/Fangs!/afb-notes.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "Neptuenn"
               }
             }
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md"
+                "file": "falling up/albums/Fangs!/afb-notes.md"
               }
             }
           }
@@ -76,6 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md"
+    "lyrics/falling up/albums/Fangs!/Untitled.md",
+    "lyrics/falling up/albums/Fangs!/Neptuenn.md",
+    "lyrics/falling up/albums/Fangs!/introduction.md",
+    "Neptuenn.md",
+    "lyrics/falling up/albums/Fangs!/discoveratory.md",
+    "the discoveratory.md",
+    "lyrics/falling up/albums/Fangs!/lyrics/11 - THE CHILLING ALPINE ADVENTURE.md",
+    "lyrics/falling up/albums/Fangs!/lyrics/10 - THE SIDEWINDER FLUX.md",
+    "lyrics/falling up/albums/Fangs!/lyrics/08 - THE MOONN AND SIXPENCE.md",
+    "lyrics/falling up/albums/Fangs!/lyrics/07 - PANIC AND GEO-PRIMARIES.md"
   ]
 }
