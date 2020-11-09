@@ -1,6 +1,8 @@
-this is a place where the move: [[arms]] can take place
+this is a place where the move: [[bend their arms]] can take place
 
-apparently has a glassy floor (according to the aftertext from [[10 - THE SIDEWINDER FLUX]])
+apparently has a *glassy floor* (according to the aftertext from [[10 - THE SIDEWINDER FLUX]])
+
+apparently is / can be *brightly lit* and *absently loud* (according to [[04 - MAGICIAN REVERSED]]) and referenced again by its *light* in [[07 - PANIC AND GEO-PRIMARIES]]
 
 ---
 

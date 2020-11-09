@@ -1,1 +1,0 @@
-Bend their arms - a reference to an act only possible in [[discoveratory|The Discoveratory]]
