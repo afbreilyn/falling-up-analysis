@@ -1,1 +1,1 @@
-green lift - a way of abstracting poison fron the skin
+green lift - a way of abstracting [[poison]] fron the skin

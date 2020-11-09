@@ -1,35 +1,37 @@
+[[GOLDEN ARROWS]]
+
 So...
 There it was behind the palms
 Do you remember? It was what you dreamed that it would be
-I had to turn the key
-Cause I saw the scripted sleeves, I could have stayed but
+I had to [[turn the key]]
+Cause I saw the scripted [[sleeve]]s, I could have stayed but
 
 Oh my goddess!
 Oh my goddess I have left here
 
-I said, who's in the walls?
+I said, who's [[in the walls]]?
 I have to know her
-Blooming from the [[corner]]
+[[Blooming from the corner]]
 Revolving
-I asked, is there a war?
+I asked, is there a [[war]]?
 They watched me breathe dust
 Calling out to free us
 Weakened at the knees
 
-Drawn bows that track the languorous
-They were in panic
-With plans for the newest planet's fate
+Drawn bows that track [[the languorous]]
+They were in [[panic]]
+With plans for the [[newest planet]]'s fate
 But I had to move an inch
 And that's when they caught a glimpse
 I thought I could dash
 
 Oh my goddess, I have left here
 
-I said, who's in the walls?
+I said, who's [[in the walls]]?
 I have to know her
-Blooming from the corner
+[[blooming from the corner]]
 Revolving
-I asked, is there a war?
+I asked, is there a [[war]]?
 They watched me breathe dust
 Calling out to free us
 Weakened at the knees

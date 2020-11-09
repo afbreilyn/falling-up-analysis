@@ -1,19 +1,21 @@
+SWIMMING TOWARDS PROPELLERS
+
 Under the galaxy, the whole
 And over the casting and the [[ROE]]
 You work the turning world
-Golden Arrows
+[[golden arrows]]
 Slipping further away from me
-Golden Arrows
+[[golden arrows]]
 Slipping young ones in darker sleeps
 Out of the shutters and the sills
 And within the mourning and the chills
-You work the turning world...
+You work the [[turning world]]...
 
 ---
 
-Down, down, down
+[[Down, down, down]]
 Where are the stirrings of old?
 I knew you had to last
 But then the sound is heard...
 
-~THE SIGNAL FROM [[Forum A|FORUM A]].
+~THE SIGNAL FROM [[FORUM A]].
