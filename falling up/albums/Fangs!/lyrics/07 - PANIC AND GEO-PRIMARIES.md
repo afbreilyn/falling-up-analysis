@@ -1,4 +1,4 @@
-[[PANIC]] AND [[GEO-PRIMARIES]]
+[[panic | PANIC]] AND [[GEO-PRIMARIES]]
 
 Threatening, it's a [[open window|window open]]
 Slide through like an [[aero plainn]] in the dark
@@ -15,7 +15,7 @@ Turned on the [[discoveratory]]'s light
 And this is everyone who watched, displayed
 Breathing in the dark, there finding where you are
 
----
+--
 
 In and out of sleep
 I'm on the floor

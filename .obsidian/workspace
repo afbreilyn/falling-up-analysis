@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "27ff3981074fb664",
+        "id": "c7594ae5cfe33280",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "falling up/albums/Fangs!/afb-notes.md",
+            "file": "falling up/albums/Fangs!/introduction.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Neptuenn"
+                "query": "aero plainn"
               }
             }
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "falling up/albums/Fangs!/afb-notes.md"
+                "file": "falling up/albums/Fangs!/introduction.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "lyrics/falling up/albums/Fangs!/Untitled.md",
-    "lyrics/falling up/albums/Fangs!/Neptuenn.md",
-    "lyrics/falling up/albums/Fangs!/introduction.md",
-    "Neptuenn.md",
-    "lyrics/falling up/albums/Fangs!/discoveratory.md",
-    "the discoveratory.md",
-    "lyrics/falling up/albums/Fangs!/lyrics/11 - THE CHILLING ALPINE ADVENTURE.md",
-    "lyrics/falling up/albums/Fangs!/lyrics/10 - THE SIDEWINDER FLUX.md",
-    "lyrics/falling up/albums/Fangs!/lyrics/08 - THE MOONN AND SIXPENCE.md",
-    "lyrics/falling up/albums/Fangs!/lyrics/07 - PANIC AND GEO-PRIMARIES.md"
+    "falling up/albums/Fangs!/introduction.md",
+    "falling up/albums/Fangs!/locations/Forum A.md",
+    "falling up/albums/Fangs!/important word-ishs/under the floorboards.md",
+    "afb todo.md",
+    "falling up/albums/Fangs!/lyrics/01 - A COLOUR EOPTIAN.md",
+    "falling up/albums/Fangs!/lyrics/02 - LOTUS AND THE LANGUOROUS.md",
+    "falling up/albums/Fangs!/lyrics/03 - STREAMS OF WOE AT ACHERON.md",
+    "falling up/albums/Fangs!/lyrics/04 - MAGICIAN REVERSED.md",
+    "falling up/albums/Fangs!/lyrics/05 - GOLDEN ARROWS.md",
+    "falling up/albums/Fangs!/lyrics/06 - THE KING'S GARDEN.md"
   ]
 }

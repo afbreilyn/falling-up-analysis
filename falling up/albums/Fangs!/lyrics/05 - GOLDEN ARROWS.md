@@ -1,4 +1,4 @@
-[[GOLDEN ARROWS]]
+[[golden arrows | GOLDEN ARROWS]]
 
 So...
 There it was behind the palms
@@ -11,7 +11,7 @@ Oh my goddess I have left here
 
 I said, who's [[in the walls]]?
 I have to know her
-[[Blooming from the corner]]
+[[blooming from the corner]]
 Revolving
 I asked, is there a [[war]]?
 They watched me breathe dust
@@ -36,7 +36,7 @@ They watched me breathe dust
 Calling out to free us
 Weakened at the knees
 
----
+--
 
 I saw beyond
 What lips can't form

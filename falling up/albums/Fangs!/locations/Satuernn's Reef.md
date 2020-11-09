@@ -1,0 +1,1 @@
+located near | on | by | in [[Satuernn]]?

@@ -1,3 +1,5 @@
+THE MOONN AND SIXPENCE
+
 If you would untie the knots on your boats
 I promise you that I could lie
 [[Neptuenn]] has changed and I needed to loose
@@ -21,10 +23,10 @@ Lightning across walls
 I knew you had to last
 [[Lift]] up and see your death
 
----
+--
 
 And so our character escapes that dreary house as silently as possible
-But only to find the Neon City...
+But only to find the [[Neon City]]...
 
 ~ OUR LADY [[Satuernn]]'S REEF
 

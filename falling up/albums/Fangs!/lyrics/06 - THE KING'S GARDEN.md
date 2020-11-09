@@ -1,4 +1,4 @@
-[[THE KING]]'S GARDEN
+[[The King | THE KING]]'S GARDEN
 
 The sky has scrapers now
 The streets are made of clothes
@@ -14,7 +14,7 @@ The [[golden arrows]] [[poised]]
 Arc across the [[plaints]]
 [[poison|Turns us pale]]
 
----
+--
 
 So this is where the shapes begin to drip
 Her drunk teeth fluttering in the wind

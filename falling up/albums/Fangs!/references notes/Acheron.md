@@ -1,6 +1,6 @@
 Acheron - in Greek Mysthology, one of the rivers of Hades
 
---
+---
 
 In ancient Greek mythology, Acheron was known as the **"river of woe"**, and was one of the five rivers of the Greek underworld. The word is of uncertain etymology.
 

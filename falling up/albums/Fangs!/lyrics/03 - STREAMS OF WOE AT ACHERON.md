@@ -1,4 +1,4 @@
-STREAMS OF WOE AT [[ACHERON]]
+STREAMS OF WOE AT [[Acheron | ACHERON]]
 
 Turn away I'll pull the [[fangs]] out
 [[poison|Spinning room it's getting dark]]
@@ -29,6 +29,6 @@ Are lifted off the ground
 So [[poised]] and still, the figures hold
 That I will not be found
 
----
+--
 
 And on towards the fortress...

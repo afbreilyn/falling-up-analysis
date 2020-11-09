@@ -1,6 +1,6 @@
 THE SIDEWINDER FLUX
 
-~ [[BLOOMING FROM THE CORNER]]
+~ [[blooming from the corner]]
 
 This dark star comes home
 Every word I meant to say
@@ -16,9 +16,9 @@ They [[stole]] me in the night, while you slept
 Breathe in slowly
 You will forget...
 
----
+--
 
-Was it in the [[Discoveratory]] where the figures leapt around the glassy floor?
+Was it in the [[discoveratory]] where the figures leapt around the glassy floor?
 Oh dear, now he sinks down towards [[Neptuenn's Cavern]]...
 
 ~[[Gears under the water]]

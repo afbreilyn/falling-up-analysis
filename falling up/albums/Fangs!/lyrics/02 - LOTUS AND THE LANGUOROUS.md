@@ -1,4 +1,4 @@
-LOTUS AND [[the languorous]]
+LOTUS AND [[the languorous | THE LANGUOROUS]]
 
 Small and sleeping children's song
 The kind that wished for death
@@ -13,7 +13,7 @@ I was strapped down to the anchours
 
 Stumble out your breathing speaks
 As heavy in the prose
-Salt beyond our lady [[Satuernn]]'s Reef
+Salt beyond our lady [[Satuernn's Reef]]
 Has wounded several more
 [[silver stab]] in the noontide, in the frayed and edge of the sea
 
@@ -30,6 +30,6 @@ Pricking your sedated episodes
 
 I was strapped down to the anchours
 
----
+--
 
 [[Down, down, down]]...where will those merrmaeds lead him?

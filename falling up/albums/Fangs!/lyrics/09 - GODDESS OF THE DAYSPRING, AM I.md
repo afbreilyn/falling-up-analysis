@@ -19,14 +19,14 @@ Have you forgotten me for flowers in your hair?
 Still I run my hands over your dress
 
 Some of us have seen
-The [[Golden Arrows]] [[poised]]
+The [[golden arrows]] [[poised]]
 Arc across the [[plaints|courts]]
 [[poison|Turns us pale]]
 
 Have you forgotten me for flowers in your hair?
 Still I run my hands over your dress
 
----
+--
 
 And our character will never forget what has happened to that city
 Pushed down like a strain of sick to the [[muddy banks]]...

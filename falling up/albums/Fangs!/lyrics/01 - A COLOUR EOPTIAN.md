@@ -1,6 +1,6 @@
-~ [[BLOOMING FROM THE CORNER]]
+~ [[blooming from the corner]]
 
-A COLOR [[Eoptian]]
+A COLOR [[Eoptian | EOPTIAN]]
 
 You're on your own now
 Dressed in [[armour]]
@@ -33,7 +33,7 @@ Your on your own now
 Dressed in [[armour]]
 If you run faster you'll forget
 
----
+--
 
 How strange that our character is running from the very people who sent him away...
 It must be those that walk on the walls, those wall walkers put on a sick and frightful display...

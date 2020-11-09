@@ -28,6 +28,6 @@ Have you just lost your own mind, under pretty lights?
 Where are the stirrings of old?
 Have you just lost your own mind, under pretty lights?
 
----
+--
 
 And with a great spray of light, you doubt

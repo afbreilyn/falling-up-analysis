@@ -11,11 +11,11 @@ Out of the shutters and the sills
 And within the mourning and the chills
 You work the [[turning world]]...
 
----
+--
 
 [[Down, down, down]]
 Where are the stirrings of old?
 I knew you had to last
 But then the sound is heard...
 
-~THE SIGNAL FROM [[FORUM A]].
+~THE SIGNAL FROM [[Forum A]].

@@ -30,7 +30,7 @@ Your [[golden arrows]] sing
 Your [[golden arrows]] sing
 I'll format your lips
 
----
+--
 
 And with this being witnessed, our character now has learned
 That fools are being taught to hate...
