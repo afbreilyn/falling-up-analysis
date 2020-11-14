@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "falling up/albums/Fangs!/introduction.md",
+            "file": "falling up/albums/Falling Up/lyrics/unreleased/The Harbor.md",
             "mode": "source"
           }
         }
@@ -48,7 +48,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e29099b65aa775a3",
@@ -64,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "falling up/albums/Fangs!/introduction.md"
+                "file": "falling up/albums/Falling Up/lyrics/unreleased/The Harbor.md"
               }
             }
           }
@@ -76,15 +77,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "falling up/albums/Fangs!/introduction.md",
-    "falling up/albums/Fangs!/locations/Forum A.md",
-    "falling up/albums/Fangs!/important word-ishs/under the floorboards.md",
-    "afb todo.md",
-    "falling up/albums/Fangs!/lyrics/01 - A COLOUR EOPTIAN.md",
-    "falling up/albums/Fangs!/lyrics/02 - LOTUS AND THE LANGUOROUS.md",
-    "falling up/albums/Fangs!/lyrics/03 - STREAMS OF WOE AT ACHERON.md",
-    "falling up/albums/Fangs!/lyrics/04 - MAGICIAN REVERSED.md",
-    "falling up/albums/Fangs!/lyrics/05 - GOLDEN ARROWS.md",
-    "falling up/albums/Fangs!/lyrics/06 - THE KING'S GARDEN.md"
+    "falling up/albums/Falling Up/lyrics/unreleased/The Harbor.md",
+    "falling up/albums/Falling Up/lyrics/unreleased/The Path.md",
+    "falling up/albums/Falling Up/lyrics/11 - The Insect.md",
+    "falling up/albums/Falling Up/lyrics/12 - Flares.md",
+    "falling up/albums/Falling Up/lyrics/10 - Up In Houses.md",
+    "falling up/albums/Falling Up/lyrics/09 - Rangers.md",
+    "falling up/albums/Falling Up/lyrics/08 - In The Woodshop.md",
+    "falling up/albums/Falling Up/lyrics/02 - Flora.md",
+    "falling up/albums/Falling Up/lyrics/03 - The Green Rider.md",
+    "falling up/albums/Falling Up/lyrics/04 - Hydro.md"
   ]
 }
