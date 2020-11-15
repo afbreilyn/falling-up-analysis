@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "falling up/albums/Falling Up/lyrics/unreleased/The Harbor.md",
+            "file": "falling up/albums/Your Sparkling Death Cometh/lyrics/07 - Mscron.md",
             "mode": "source"
           }
         }
@@ -40,11 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aero plainn"
+                "query": "perfect"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,7 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "falling up/albums/Falling Up/lyrics/unreleased/The Harbor.md"
+                "file": "falling up/albums/Your Sparkling Death Cometh/lyrics/07 - Mscron.md"
               }
             }
           }
@@ -77,15 +78,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "falling up/albums/Falling Up/lyrics/unreleased/The Harbor.md",
+    "falling up/albums/Your Sparkling Death Cometh/lyrics/07 - Mscron.md",
     "falling up/albums/Falling Up/lyrics/unreleased/The Path.md",
-    "falling up/albums/Falling Up/lyrics/11 - The Insect.md",
-    "falling up/albums/Falling Up/lyrics/12 - Flares.md",
-    "falling up/albums/Falling Up/lyrics/10 - Up In Houses.md",
-    "falling up/albums/Falling Up/lyrics/09 - Rangers.md",
-    "falling up/albums/Falling Up/lyrics/08 - In The Woodshop.md",
-    "falling up/albums/Falling Up/lyrics/02 - Flora.md",
-    "falling up/albums/Falling Up/lyrics/03 - The Green Rider.md",
-    "falling up/albums/Falling Up/lyrics/04 - Hydro.md"
+    "falling up/albums/Your Sparkling Death Cometh/lyrics/bonus/Blue Ghost (Quadra remix).md",
+    "falling up/albums/Your Sparkling Death Cometh/lyrics/bonus/The Mountain Machine.md",
+    "falling up/albums/Your Sparkling Death Cometh/lyrics/03 - Blue Ghost.md",
+    "falling up/albums/Your Sparkling Death Cometh/lyrics/bonus/Untitled.md",
+    "falling up/albums/Your Sparkling Death Cometh/lyrics/10 - Slow Waves.md",
+    "falling up/albums/Your Sparkling Death Cometh/lyrics/09 - Forms And Shapes.md",
+    "falling up/albums/Your Sparkling Death Cometh/lyrics/08 - Vates.md",
+    "falling up/albums/Your Sparkling Death Cometh/lyrics/06 - Oceans.md"
   ]
 }
