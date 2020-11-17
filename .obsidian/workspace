@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "falling up/albums/Your Sparkling Death Cometh/lyrics/07 - Mscron.md",
-            "mode": "source"
+            "file": "falling up/albums/Falling Up/Falling Up - Falling Up - falling-up-lyrics.pdf"
           }
         }
       }
@@ -44,13 +43,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e29099b65aa775a3",
@@ -66,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "falling up/albums/Your Sparkling Death Cometh/lyrics/07 - Mscron.md"
+                "file": "falling up/albums/Falling Up/Falling Up - Falling Up - falling-up-lyrics.pdf"
               }
             }
           }
@@ -78,6 +75,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "falling up/albums/Falling Up/Falling Up - Falling Up - falling-up-lyrics.pdf",
     "falling up/albums/Your Sparkling Death Cometh/lyrics/07 - Mscron.md",
     "falling up/albums/Falling Up/lyrics/unreleased/The Path.md",
     "falling up/albums/Your Sparkling Death Cometh/lyrics/bonus/Blue Ghost (Quadra remix).md",
@@ -86,7 +84,6 @@
     "falling up/albums/Your Sparkling Death Cometh/lyrics/bonus/Untitled.md",
     "falling up/albums/Your Sparkling Death Cometh/lyrics/10 - Slow Waves.md",
     "falling up/albums/Your Sparkling Death Cometh/lyrics/09 - Forms And Shapes.md",
-    "falling up/albums/Your Sparkling Death Cometh/lyrics/08 - Vates.md",
-    "falling up/albums/Your Sparkling Death Cometh/lyrics/06 - Oceans.md"
+    "falling up/albums/Your Sparkling Death Cometh/lyrics/08 - Vates.md"
   ]
 }
